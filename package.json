@@ -1,0 +1,27 @@
+{
+  "name": "hexlet-jest",
+  "version": "1.0.0",
+  "description": "Test framework Jest",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/KonstantinZeGeR/hexlet-jest.git"
+  },
+  "keywords": [
+    "jest",
+    "automatic-testing"
+  ],
+  "author": "LeshchukKS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KonstantinZeGeR/hexlet-jest/issues"
+  },
+  "homepage": "https://github.com/KonstantinZeGeR/hexlet-jest#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
